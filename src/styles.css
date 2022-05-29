@@ -1,0 +1,14 @@
+html {
+  font-family: system-ui, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  margin: 0;
+  padding: 2rem 20rem 0rem 20rem;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
